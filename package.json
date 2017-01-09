@@ -61,6 +61,11 @@
     "tarball": "https://registry.npmjs.org/react-native-audio/-/react-native-audio-1.1.0.tgz"
   },
   "files": [
+    "android/build.gradle",
+    "android/src/main/AndroidManifest.xml",
+    "android/src/main/java/com/xtheon/RNAudio/AudioPlayer.java",
+    "android/src/main/java/com/xtheon/RNAudio/AudioRecorder.java",
+    "android/src/main/java/com/xtheon/RNAudio/RNAudioPackage.java",
     "ios/AudioRecorderManager.m",
     "ios/AudioRecorderManager.h",
     "ios/AudioPlayerManager.m",
